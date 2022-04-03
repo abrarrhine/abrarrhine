@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Abrar Islam, a Computer Science major at Virginia Tech. 
+This is **Abrar Islam**, a Computer Science major at *Virginia Tech*. 
 - 📫 How to reach me: https://abrarrhine.tech 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do paintings and sketches in my free time. 
