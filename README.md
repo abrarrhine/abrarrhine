@@ -6,5 +6,3 @@ This is **Abrar Rhine**. I am a software engineer, machine learning engineer and
 - 📧: abrarrhine@gmail.com
 - 🏠: United States 🗽🌎 
 - 🏫: Virginia Tech
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=abrarrhine)
