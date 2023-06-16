@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; justify-content: space between">
   <div style="flex: 1; margin-right: 20px;">
     <h3>Hi there 👋</h3>
     <p>
