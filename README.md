@@ -7,4 +7,5 @@ This is **Abrar Rhine**. I am a software engineer, machine learning engineer and
 - 🏠: United States 🗽🌎 
 - 🏫: Virginia Tech
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abrarrhine)](https://github.com/abrarrhine/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abrarrhine&bg_color=000000)](https://github.com/abrarrhine/github-readme-stats)
+
