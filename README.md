@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: 1; margin-right: 20px;">
     <h3>Hi there 👋</h3>
     <p>
       This is <strong>Abrar Rhine</strong>. I am a software engineer, machine learning engineer, and UX designer.
@@ -12,7 +12,7 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <a href="https://github.com/abrarrhine/github-readme-stats">
+    <a href="https://github.com/abrarrhine/github-readme-stats" style="display: inline-block;">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abrarrhine&bg_color=000000&text_color=4CAF50" alt="Top Languages" />
     </a>
   </div>
